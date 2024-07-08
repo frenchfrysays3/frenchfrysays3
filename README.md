@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me frenchfrysays.alt@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I lie to play games
 
 <!---
 frenchfrysays3/frenchfrysays3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
