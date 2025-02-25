@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frenchfrysays3
 - 👀 I’m interested in video games
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript, php and sql
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me frenchfrysays.alt@gmail.com
 - 😄 Pronouns: He/Him
