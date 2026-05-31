@@ -3,7 +3,9 @@
 i code in Node.js and spend way too much time playing video games
 
 🍎 slowly making the switch to Apple (send help and money)
+
 🎮 gamer first, developer second
+
 📺 i also make videos over at [@lucasandcalebchannel](https://youtube.com/@lucasandcalebchannel)
 
 ---
