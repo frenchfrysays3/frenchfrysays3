@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @frenchfrysays3
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning javascript, php and sql and C++
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me frenchfrysays.alt@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I lie to play games
+# hey, i'm frenchfrysays 👋
 
-<!---
-frenchfrysays3/frenchfrysays3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i code in Node.js and spend way too much time playing video games
+
+🍎 slowly making the switch to Apple (send help and money)
+🎮 gamer first, developer second
+📺 i also make videos over at [@lucasandcalebchannel](https://youtube.com/@lucasandcalebchannel)
+
+---
+
+feel free to poke around the repos — some are cool, some are chaotic
